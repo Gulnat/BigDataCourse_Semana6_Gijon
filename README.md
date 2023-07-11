@@ -2,6 +2,9 @@
 
 ## Dia 1 -- File Classes:
 
-- Import a HTML file and watch it magically convert to Markdown
-- Drag and drop images (requires your Dropbox account be linked)
-- Import and save files from GitHub, Dropbox, Google Drive and One Drive
+- Create class Persona()
+- Ex of def _init_(self)
+- Metodos presentarse(self), saludar_a-alguien()
+- Double-underscore usage: _name_, _doc_
+- Ej Circulo, the class Circulo(object), graph of circle
+- Ej Analysis de texto
