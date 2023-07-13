@@ -21,3 +21,12 @@
 - Las funciones son objetos
 - Variables globales
 - Execusion de funciones
+## Dia 2 -- File Funciones:
+
+- Definir e invocar la funcion
+- Argumentos vs Parametros
+- Ej 1 escribir funcion de mate
+  ## Dia 3 -- File Transformaciones y Acciones sobre RDDs:
+
+- Cargar sc.textfile()
+
